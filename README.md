@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://newsletter-signup-kappa-nine.vercel.app/))
+- Live Site URL: https://newsletter-signup-kappa-nine.vercel.app/
 
 ## My process
 
